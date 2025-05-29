@@ -8,21 +8,21 @@
 
 ---
 
-## 🔥 What is Juggernaut?
+## What is Juggernaut?
 
 > **Juggernaut** is a next-generation password cracking platform that outperforms traditional tools like **John the Ripper** and **Hashcat** by combining **AI, hybrid hardware acceleration, and a cloud-native architecture**.
 
 ---
 
-## 📦 Features at a Glance
+##  Features at a Glance
 
-* ✅ AI-powered attack strategies
-* 🚀 220 GH/s MD5 on RTX 4090
-* 🧠 Rule auto-generation from leaked data
-* 🧬 Polymorphic cracking kernels
-* ☁️ Cloud-native: burst cracking via AWS Lambda
-* 🔐 Biometric + blockchain hash cracking
-* ⚠️ Ethical use enforcement + full audit logging
+*  AI-powered attack strategies
+*  220 GH/s MD5 on RTX 4090
+*  Rule auto-generation from leaked data
+*  Polymorphic cracking kernels
+*  Cloud-native: burst cracking via AWS Lambda
+*  Biometric + blockchain hash cracking
+*  Ethical use enforcement + full audit logging
 
 ---
 
