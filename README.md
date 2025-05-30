@@ -4,7 +4,7 @@
 # ⚔️ **Juggernaut**
 ![juggernaut](./jug.png)
 *The Ultimate Credential Cracking System*
-![License](https://img.shields.io/badge/license-Restricted_Ethical_Use-orange) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Status](https://img.shields.io/badge/status-alpha-blue)
+![License](https://img.shields.io/badge/license-Restricted_Ethical_Use-orange) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Status](https://img.shields.io/badge/status-beta-blue)
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 <details>
-<summary><strong>🧬 Hybrid Architecture</strong></summary>
+<summary><strong> Hybrid Architecture</strong></summary>
 
 ```mermaid
 graph TD
@@ -46,7 +46,7 @@ graph TD
 ---
 
 <details>
-<summary><strong>🧠 AI-Guided Attack Engine</strong></summary>
+<summary><strong> AI-Guided Attack Engine</strong></summary>
 
 ```python
 def smart_attack(password_db):
@@ -67,7 +67,7 @@ def smart_attack(password_db):
 ---
 
 <details>
-<summary><strong>⚡ Performance Benchmarks</strong></summary>
+<summary><strong> Performance Benchmarks</strong></summary>
 
 | Metric           | John the Ripper | Juggernaut   |
 | ---------------- | --------------- | ------------ |
@@ -116,7 +116,7 @@ __global__ void polymorphic_kernel(hash_t *target, dict_t *dict) {
 ---
 
 <details>
-<summary><strong>🕵️ Stealth & Operational Security</strong></summary>
+<summary><strong> Stealth & Operational Security</strong></summary>
 
 ```yaml
 network:
@@ -138,7 +138,7 @@ execution:
 ---
 
 <details>
-<summary><strong>☁️ Cloud Native</strong></summary>
+<summary><strong> Cloud Native</strong></summary>
 
 ```bash
 juggernaut-cloud deploy \
@@ -153,7 +153,7 @@ juggernaut-cloud deploy \
 
 ---
 
-## 🧪 Live Shell Demo
+##  Live Shell Demo
 
 ```shell
 Juggernaut> analyze targets.db
@@ -166,7 +166,7 @@ Juggernaut> auto --target=CEO --intensity=11
 
 ---
 
-## 🔍 Feature Comparison
+##  Feature Comparison
 
 | Feature             | John the Ripper | Hashcat | Juggernaut |
 | ------------------- | --------------- | ------- | ---------- |
@@ -190,16 +190,16 @@ else:
           law_enforcement_case="FBIR-2024-556")
 ```
 
-* ✅ **Restricted Ethical Use Only**
-* 🔒 Cryptographically signed audit logs
-* 🚨 Automatic abuse detection
+*  **Restricted Ethical Use Only**
+*  Cryptographically signed audit logs
+*  Automatic abuse detection
 
 ---
 
-## 🧰 Installation
+##  Installation
 
 ```bash
-git clone https://github.com/your-org/juggernaut.git
+git clone https://github.com/occupyashanti/juggernaut.git
 cd juggernaut
 ./install.sh
 ```
@@ -216,7 +216,7 @@ cd juggernaut
 
 ---
 
-## 🧠 Want to Contribute?
+##  Want to Contribute?
 
 We’re looking for contributors in:
 
