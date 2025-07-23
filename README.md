@@ -1,7 +1,6 @@
 
 # ⚔️ **Juggernaut**
 ![juggernaut](./jug.png)
-*The Ultimate Credential Cracking System*
 ![License](https://img.shields.io/badge/license-Restricted_Ethical_Use-orange) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Status](https://img.shields.io/badge/status-beta-blue)
 
 ---
