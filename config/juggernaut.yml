@@ -1,0 +1,13 @@
+# config/juggernaut.yml
+# Juggernaut configuration file (C Modular Version)
+
+hashcat_path: /usr/bin/hashcat
+python_path: /usr/bin/python3
+ai_rulegen_script: ../ai_engine/ai_attack.py
+default_hash_mode: 1000
+wordlist: ../wordlists/top10k.txt
+brute_mask: '?a?a?a?a?a?a'
+ai_complexity: 7
+aws_job_queue: password-cracking
+aws_job_definition: hashcat:latest
+aws_s3_bucket_uri: ''

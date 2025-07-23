@@ -1,0 +1,6 @@
+# config/ethics_policy.yml
+# Juggernaut Ethical Use Policy
+
+restricted_use: true
+log_audit: true
+automatic_abuse_detection: true

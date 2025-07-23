@@ -1,0 +1,5 @@
+# config/logging.toml
+[logging]
+level = "INFO"
+file = "../logs/juggernaut.log"
+format = "[%Y-%m-%d %H:%M:%S] [%(levelname)s] %(message)s"
